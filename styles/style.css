@@ -1,0 +1,125 @@
+.navbar{
+    display: block;
+    margin: auto;
+    
+    background-color:  #562EFF;
+    
+}
+
+.navbar img{
+    width: 40px;
+}
+.navbar-nav > li{
+    margin-left:10px;
+    margin-right:10px;
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+  }
+  .player img{
+    width: 56px;
+    
+  }
+  .player p{
+    font-size: 18px;
+    font-weight: 500;
+  }
+  header{
+    margin-bottom: 2%;
+  }
+  main{
+    display: block;
+    margin: auto;
+    max-width: 870px;
+    background-color: white;
+  }
+  .top-blog img{
+    width: 177px;
+    height: 117px;
+
+  }
+  .blogs{
+    margin: 25px 0;
+  }
+  .blogs h5{
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .top-blog p{
+    display: inline-block;
+    justify-content: center;
+
+  }
+  .top-blog{
+    margin-bottom: 2%;
+  }
+.latest-courses h3{
+    margin-bottom: 4%;  
+}
+.spn1{
+    width: 94px;
+    height: 29.38px;
+    color: #FF4A60;
+    background-color: #FFE4E8;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+.card-footer p{
+    color: #A2A2A2;
+    font-weight:400 ;
+
+}
+.card-title{
+    color: #1E1E1E;
+    font-size: 20.03px;
+    font-weight: 600;
+}
+span img{
+    width: 20.03px;
+}
+.spn2{
+    width: 94px;
+    height: 29.38px;
+    color: #ED6B4F;
+    background-color: #FEE5DF;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+.info{
+    width: 100%;
+    text-align: center;
+   
+}
+.name{
+    color: #562EFF;
+    font-size: 16px;
+}
+.latest-courses{
+    display: block;
+    margin: auto;
+    max-width: 870px;
+    background-color: white;
+}
+.card{
+    border-radius: 20px;
+    border-style: none;
+}
+.top-player{
+    padding: 20px 0;
+}
+.latest-courses{
+    padding: 20px 10px;
+}
+.card-title{
+    width: 100%;
+    height: 70%;
+}
+.card-text{
+    color: #ED6B4F;
+}
+.info p{
+    color: #9F9F9F;
+}
